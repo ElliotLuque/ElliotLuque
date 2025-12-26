@@ -43,9 +43,8 @@ I enjoy understanding **how things work under the hood**, from the operating sys
 ### Systems & DevOps
 - Linux (daily driver)
 - Docker · Docker Compose
-- Git · GitHub
 - NixOS · flakes · Home Manager
-- Shell (fish)
+- Neovim
 
 ---
 
@@ -70,7 +69,7 @@ I enjoy understanding **how things work under the hood**, from the operating sys
 
 ## 📈 Work philosophy
 
-- Clear code over “clever” code  
+- Clear code over "clever" code  
 - Preference for simple, maintainable solutions  
 - Long-term thinking  
 - Document what matters  
