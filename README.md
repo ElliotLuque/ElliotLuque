@@ -10,7 +10,7 @@
 
 I am a computer engineer with a strong interest in:
 
-- **Backend** and **full-stack** development  
+- **Backend** development  
 - Clean, scalable architectures  
 - Linux systems and reproducible environments  
 - Automation, containers and deployment  
