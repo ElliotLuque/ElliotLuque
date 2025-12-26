@@ -1,3 +1,5 @@
+<meta name="google-site-verification" content="_NS3AFc7KbNdx_U9_ZgAM9c49pZtTT2xH7qNPHehcLw" />
+
 # 👋 Hi, I'm Elliot
 
 💻 **Computer Engineer**  
