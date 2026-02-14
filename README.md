@@ -23,21 +23,21 @@ I enjoy understanding **how things work under the hood**, from the operating sys
 ## 🛠️ Technologies & Tools
 
 ### Languages
-- JavaScript / TypeScript
 - Java
+- TypeScript / JavaScript
 - C
 - SQL
 
 ### Backend & Web
-- Node.js · Express
 - Spring Boot · WebFlux
+- Node.js · Express
 - REST APIs
 - Hexagonal architecture
 
 ### Frontend
+- Angular
 - Next.js
 - React
-- Angular
 - HTML · CSS · Modern JavaScript
 
 ### Systems & DevOps
@@ -45,25 +45,6 @@ I enjoy understanding **how things work under the hood**, from the operating sys
 - Docker · Docker Compose
 - NixOS · flakes · Home Manager
 - Neovim
-
----
-
-## 📂 Featured projects
-
-🔹 **Web platforms & APIs**
-- Full-stack applications with custom backends
-- REST APIs with access control and roles
-- SPA frontends with dynamic loading and filtering
-
-🔹 **IoT & automation**
-- Smart device integrations
-- Local + cloud control
-- Event-driven architectures
-
-🔹 **Academic & personal projects**
-- Concurrent systems
-- Functional programming
-- Advanced data structures
 
 ---
 
@@ -81,6 +62,7 @@ I enjoy understanding **how things work under the hood**, from the operating sys
 
 - ✉️ Email: **[contact@elliotluque.com](mailto:contact@elliotluque.com)**
 - 💼 LinkedIn: **[in/elliot-luque-pascual/](https://www.linkedin.com/in/elliot-luque-pascual/)**
+- 🌍 Personal website: **[elliotluque.com](https://elliotluque.com/)**
 
 ---
 
