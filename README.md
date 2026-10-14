@@ -1,69 +1,46 @@
-# 👋 Hi, I'm Elliot
+<p align="center">
+  <img src="./assets/hero.svg" alt="Elliot Luque — software engineer working with systems, architecture and AI agents. Animated Living Code banner." width="100%" />
+</p>
 
-💻 **Computer Engineer**  
-🐧 Linux · Backend · Full-Stack  
-🚀 Building real-world projects with a focus on architecture, performance and maintainability
+<p align="center">
+  <a href="https://elliotluque.com">Portfolio</a> &nbsp;·&nbsp;
+  <a href="https://github.com/ElliotLuque/living-code">Living Code</a> &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/elliot-luque-pascual/">LinkedIn</a> &nbsp;·&nbsp;
+  <a href="mailto:contact@elliotluque.com">Email</a>
+</p>
 
----
+<br>
 
-## 🧠 About me
+### `01 /` What I build
 
-I am a computer engineer with a strong interest in:
+I'm a software engineer interested in the space where **software architecture, Linux systems and AI agents** meet.
 
-- **Backend** development  
-- Clean, scalable architectures  
-- Linux systems and reproducible environments  
-- Automation, containers and deployment  
-- Projects with real impact (not just tutorials)
+I design the architecture, prepare the context and use agents to explore and implement within clear boundaries. **The goal isn't to generate more code. It's to build software we can understand, verify and evolve.**
 
-I enjoy understanding **how things work under the hood**, from the operating system to the application layer.
+### `02 /` Selected work
 
----
+<p align="center">
+  <a href="https://github.com/ElliotLuque/living-code"><img src="./assets/living-code.svg" alt="Living Code — a color scheme for editors, terminals and the web" width="49%"></a>
+  <a href="https://github.com/ElliotLuque/pi-statusbar"><img src="./assets/pi-statusbar.svg" alt="Pi Statusbar — a better model, context and usage footer for Pi" width="49%"></a>
+  <br>
+  <a href="https://github.com/ElliotLuque/herdr-worktree-tools"><img src="./assets/herdr-worktree-tools.svg" alt="Herdr Worktree Tools — review, merge and close Git worktrees" width="49%"></a>
+  <a href="https://github.com/ElliotLuque/nixdots"><img src="./assets/nixdots.svg" alt="Nixdots — reproducible NixOS and Home Manager configuration" width="49%"></a>
+</p>
 
-## 🛠️ Technologies & Tools
+### `03 /` How I work
 
-### Languages
-- Java
-- TypeScript / JavaScript
-- C
-- SQL
+| **DESIGN** `→` | **ORCHESTRATE** `→` | **VERIFY** `✓` |
+| :--- | :--- | :--- |
+| Define architecture, interfaces and constraints before implementation. | Let agents explore and execute bounded tasks; keep decisions explicit. | Review diffs, test behavior and make changes maintainable. |
 
-### Backend & Web
-- Spring Boot · WebFlux
-- Node.js · Express
-- REST APIs
-- Hexagonal architecture
+### `04 /` At my desk
 
-### Frontend
-- Angular
-- Next.js
-- React
-- HTML · CSS · Modern JavaScript
+`Java` · `Spring Boot` · `TypeScript` · `NixOS` · `Home Manager` · `Hyprland` · `Neovim` · `Git worktrees` · `Pi`
 
-### Systems & DevOps
-- Linux (daily driver)
-- Docker · Docker Compose
-- NixOS · flakes · Home Manager
-- Neovim
+Currently exploring **Veyl**, a keyboard-first desktop shell built with Quickshell, and better workflows for running and reviewing coding agents.
 
----
+<p align="center">
+  <a href="https://elliotluque.com"><img src="./assets/footer.svg" alt="[el] — Build the system. Keep the judgment. elliotluque.com" width="100%"></a>
+</p>
 
-## 📈 Work philosophy
-
-- Clear code over "clever" code  
-- Preference for simple, maintainable solutions  
-- Long-term thinking  
-- Document what matters  
-- Automate repetitive tasks  
-
----
-
-## 📫 Contact
-
-- ✉️ Email: **[contact@elliotluque.com](mailto:contact@elliotluque.com)**
-- 💼 LinkedIn: **[in/elliot-luque-pascual/](https://www.linkedin.com/in/elliot-luque-pascual/)**
-- 🌍 Personal website: **[elliotluque.com](https://elliotluque.com/)**
-
----
-
-⭐ If you find any project useful, feel free to leave a star!
+<sub>Visual identity: <a href="https://github.com/ElliotLuque/living-code">Living Code Night</a> · Self-contained SVG animation · No external stats widgets</sub>
