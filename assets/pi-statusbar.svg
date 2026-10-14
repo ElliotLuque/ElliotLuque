@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="570" height="224" viewBox="0 0 570 224" role="img" aria-label="pi-statusbar: Your model, context and usage. A useful footer, at a glance.">
+ <defs>
+ <linearGradient id="fade" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#12171a"/><stop offset="1" stop-color="#05080b"/></linearGradient>
+ <pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r=".9" fill="#2d3438"/></pattern>
+ </defs>
+ <rect x="1" y="1" width="568" height="222" rx="14" fill="url(#fade)" stroke="#2d3438" stroke-width="2"/>
+ <rect x="2" y="2" width="566" height="220" rx="13" fill="url(#dots)" opacity=".65"/>
+ <rect x="22" y="26" width="5" height="10" rx="2" fill="#9ae0dd"/>
+ <text x="38" y="35" fill="#9ba0a2" font-family="monospace" font-size="12" letter-spacing="1.2">02  /  PI EXTENSION / AGENTS</text>
+ <circle cx="532" cy="30" r="4" fill="#9ae0dd"><animate attributeName="opacity" values="1;.45;1" dur="7s" repeatCount="indefinite"/></circle>
+ <text x="26" y="94" fill="#e2e9ee" font-family="sans-serif" font-size="36" font-weight="700" letter-spacing="-.8">pi-statusbar</text>
+ <text x="27" y="127" fill="#c8cfd4" font-family="sans-serif" font-size="15">Your model, context and usage.</text>
+ <text x="27" y="151" fill="#9ba0a2" font-family="sans-serif" font-size="15">A useful footer, at a glance.</text>
+ <path d="M27 177H543" stroke="#2d3438"/>
+ <text x="27" y="201" fill="#9ae0dd" font-family="monospace" font-size="12" letter-spacing="1.2">AGENT TOOLING</text>
+ <text x="541" y="201" text-anchor="end" fill="#747c80" font-family="monospace" font-size="12">EXPLORE  ↗</text>
+ <path d="M486 58l22 0 0 22" fill="none" stroke="#9ae0dd" stroke-opacity=".35" stroke-width="2"/>
+ <path d="M497 69l11 -11" fill="none" stroke="#9ae0dd" stroke-opacity=".65" stroke-width="2"/>
+ </svg>
